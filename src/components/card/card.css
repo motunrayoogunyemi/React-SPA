@@ -1,0 +1,35 @@
+.e__card{
+    background-color: #000;
+}
+
+.e__card-box{
+    display: flex;
+    margin-top: 2rem;
+    height: 200px;
+    /* width: 300%; */
+}
+
+.e__card-box-gradient{
+    flex: 1;
+    background-color: #5692e8 ;
+    height: 200px;
+}
+
+.e__card-box-content{
+    flex: 3;
+    padding: 2rem;
+    background-color: #0e1a2b;
+    color: #fff;
+}
+
+.e__card-box-content h2{
+    font-size: 25px;
+}
+
+.e__card-box-content p{
+    font-size: 12px;
+}
+
+body{
+    background-color: #000;
+}
